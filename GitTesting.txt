@@ -1,8 +1,8 @@
 Hi All,
 
-Deployment on UAT hsa been completed.
+Deployment on UAT hsa been completed for Sprint Release/21.1.1.
 
 All Uat Webshops are up now.
 
 Thanks,
-Shivaraj Sajjan
+Shivaraj G Sajjan
