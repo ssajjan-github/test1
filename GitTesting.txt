@@ -1,0 +1,8 @@
+Hi All,
+
+Deployment on UAT hsa been completed.
+
+All Uat Webshops are up now.
+
+Thanks,
+Shivaraj Sajjan
